@@ -12,7 +12,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/IGAWorksDev/ap-APSSPSDK-SPM.git", from: "3.4.0"),
-        .package(url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git", exact: "12.11.0"),
+        .package(url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git", exact: "12.12.0"),
     ],
     targets: [
         .target(name: "APSSPMediationAdMob",
