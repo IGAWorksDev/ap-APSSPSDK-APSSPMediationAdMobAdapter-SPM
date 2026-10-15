@@ -6,7 +6,7 @@ public final class AdMobAdapterFactory: NSObject, APSSPAdapterFactory {
 
     public static var networkID: Int { 1 }
     public static var sdkVersion: String? { AdMobInitializationAdapter().sdkVersion }
-    public static var adapterVersion: String? { "13.3.0.0" }
+    public static var adapterVersion: String? { "13.4.0.0" }
 
     public static func makeInitializationAdapter() -> AnyObject? {
         return AdMobInitializationAdapter()
