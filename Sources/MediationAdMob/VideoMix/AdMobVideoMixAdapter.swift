@@ -12,9 +12,9 @@ import APSSPSDK
 
 final public class AdMobVideoMixAdapter: APSSPVideoMixAdAdapterProtocol {
     
-    public var rootViewController: UIViewController?
+    public weak var rootViewController: UIViewController?
     
-    public var videoMixDelegate: APSSPVideoMixAdAdapterDelegate?
+    public weak var videoMixDelegate: APSSPVideoMixAdAdapterDelegate?
     
     public var videoMixAdType: APSSPVideoMixAdType = .RewardVideo
     
@@ -26,6 +26,10 @@ final public class AdMobVideoMixAdapter: APSSPVideoMixAdAdapterProtocol {
     private var rewardVideoAdapter: AdMobRewardVideoAdapter?
     
     
+    deinit {
+        APLogger.debug("AdMobVideoMixAdapter deinit")
+    }
+
     public init(placementDic: [String: String], rootViewController: UIViewController?, info: [String: Any?]) {
         self.placementDic = placementDic
         self.rootViewController = rootViewController

@@ -12,13 +12,17 @@ import APSSPSDK
 
 final public class AdMobInterstitialAdapter: APSSPInterstitialAdapterProtocol {
 
-    public var rootViewController: UIViewController?
+    public weak var rootViewController: UIViewController?
     
-    public var delegate: APSSPInterstitialAdapterDelegate?
+    public weak var delegate: APSSPInterstitialAdapterDelegate?
     
     private var adMobMediationInterstitialAd: AdMobMediationInterstitialAd?
 
     
+    deinit {
+        APLogger.debug("AdMobInterstitialAdapter deinit")
+    }
+
     public init(placementDic: [String: String], rootViewController: UIViewController?, info: [String : Any?]) {
         let placementId = placementDic[APSSPPlacementKey.adUnitID.rawValue] ?? ""
         adMobMediationInterstitialAd = AdMobMediationInterstitialAd(placementId: placementId)

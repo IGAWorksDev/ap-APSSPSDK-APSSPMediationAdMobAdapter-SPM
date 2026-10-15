@@ -14,10 +14,14 @@ final public class AdMobInterstitialVideoAdapter: APSSPInterstitialVideoAdapterP
    
     private var adMobMediationInterstitialVideoAd: AdMobMediationInterstitialVideoAd?
     
-    public var delegate: APSSPInterstitialVideoAdapterDelegate?
+    public weak var delegate: APSSPInterstitialVideoAdapterDelegate?
     
-    public var rootViewController: UIViewController?
+    public weak var rootViewController: UIViewController?
     
+    deinit {
+        APLogger.debug("AdMobInterstitialVideoAdapter deinit")
+    }
+
     public init(placementDic: [String: String], rootViewController: UIViewController?, info: [String : Any?]) {
         let placementId = placementDic[APSSPPlacementKey.adUnitID.rawValue] ?? ""
         adMobMediationInterstitialVideoAd = AdMobMediationInterstitialVideoAd(placementId: placementId)

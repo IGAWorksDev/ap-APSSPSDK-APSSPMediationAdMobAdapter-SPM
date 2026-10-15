@@ -32,7 +32,7 @@ final class AdMobMediationNativeAdView: UIView {
     
     private let placementId: String
     
-    private let rootViewController: UIViewController?
+    private weak var rootViewController: UIViewController?
     
     
     init(placementId: String, rootViewController: UIViewController?, render: AnyObject) {

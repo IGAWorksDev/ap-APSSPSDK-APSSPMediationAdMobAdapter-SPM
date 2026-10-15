@@ -13,13 +13,13 @@ import GoogleMobileAds
 
 final class AdMobMediationRewardVideoAd: NSObject {
     
-    var delegate: APSSPRewardVideoAdapterDelegate?
+    weak var delegate: APSSPRewardVideoAdapterDelegate?
     
     private var rewardedAd: RewardedAd?
     
     private let placementId: String
     
-    private let rootViewController: UIViewController?
+    private weak var rootViewController: UIViewController?
     
     
     init(placementId: String, rootViewController: UIViewController?) {

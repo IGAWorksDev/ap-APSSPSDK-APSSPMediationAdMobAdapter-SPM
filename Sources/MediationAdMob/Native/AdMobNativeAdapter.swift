@@ -15,7 +15,7 @@ final public class AdMobNativeAdapter: APSSPNativeAdapterProtocol {
     
     weak public var delegate: APSSPNativeViewAdapterDelegate?
     
-    public var rootViewController: UIViewController?
+    public weak var rootViewController: UIViewController?
     
     private var admobNativeAdView: AdMobMediationNativeAdView
     
