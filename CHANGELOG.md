@@ -31,6 +31,7 @@
 
 GoogleMobileAds `13.11.0` 대응
 어댑터 버전 `13.11.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -38,6 +39,7 @@ GoogleMobileAds `13.11.0` 대응
 
 GoogleMobileAds `13.10.0` 대응
 어댑터 버전 `13.10.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -45,6 +47,7 @@ GoogleMobileAds `13.10.0` 대응
 
 GoogleMobileAds `13.9.0` 대응
 어댑터 버전 `13.9.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -52,6 +55,7 @@ GoogleMobileAds `13.9.0` 대응
 
 GoogleMobileAds `13.9.0` 대응 · SPM 개별 배포 시작
 어댑터 버전 `13.9.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-08-31
 
@@ -59,6 +63,7 @@ GoogleMobileAds `13.9.0` 대응 · SPM 개별 배포 시작
 
 GoogleMobileAds `13.8.0` 대응
 어댑터 버전 `13.8.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -66,6 +71,7 @@ GoogleMobileAds `13.8.0` 대응
 
 GoogleMobileAds `13.8.0` 대응
 어댑터 버전 `13.8.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-08-31
 
@@ -73,6 +79,7 @@ GoogleMobileAds `13.8.0` 대응
 
 GoogleMobileAds `13.7.0` 대응
 어댑터 버전 `13.7.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -80,6 +87,7 @@ GoogleMobileAds `13.7.0` 대응
 
 GoogleMobileAds `13.7.0` 대응
 어댑터 버전 `13.7.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-08-31
 
@@ -87,6 +95,7 @@ GoogleMobileAds `13.7.0` 대응
 
 GoogleMobileAds `13.6.0` 대응
 어댑터 버전 `13.6.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -94,6 +103,7 @@ GoogleMobileAds `13.6.0` 대응
 
 GoogleMobileAds `13.6.0` 대응
 어댑터 버전 `13.6.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-08-31
 
@@ -101,6 +111,7 @@ GoogleMobileAds `13.6.0` 대응
 
 GoogleMobileAds `13.5.0` 대응
 어댑터 버전 `13.5.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -108,6 +119,7 @@ GoogleMobileAds `13.5.0` 대응
 
 GoogleMobileAds `13.5.0` 대응
 어댑터 버전 `13.5.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-08-31
 
@@ -115,6 +127,7 @@ GoogleMobileAds `13.5.0` 대응
 
 GoogleMobileAds `13.4.0` 대응
 어댑터 버전 `13.4.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -122,6 +135,7 @@ GoogleMobileAds `13.4.0` 대응
 
 GoogleMobileAds `13.4.0` 대응
 어댑터 버전 `13.4.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-08-31
 
@@ -129,6 +143,7 @@ GoogleMobileAds `13.4.0` 대응
 
 GoogleMobileAds `13.3.0` 대응
 어댑터 버전 `13.3.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -136,6 +151,7 @@ GoogleMobileAds `13.3.0` 대응
 
 GoogleMobileAds `13.3.0` 대응
 어댑터 버전 `13.3.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-08-31
 
@@ -143,6 +159,7 @@ GoogleMobileAds `13.3.0` 대응
 
 GoogleMobileAds `13.2.0` 대응
 어댑터 버전 `13.2.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -150,6 +167,7 @@ GoogleMobileAds `13.2.0` 대응
 
 GoogleMobileAds `13.2.0` 대응
 어댑터 버전 `13.2.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-08-31
 
@@ -157,6 +175,7 @@ GoogleMobileAds `13.2.0` 대응
 
 GoogleMobileAds `13.1.0` 대응
 어댑터 버전 `13.1.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -164,6 +183,7 @@ GoogleMobileAds `13.1.0` 대응
 
 GoogleMobileAds `13.1.0` 대응
 어댑터 버전 `13.1.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-08-31
 
@@ -171,6 +191,7 @@ GoogleMobileAds `13.1.0` 대응
 
 GoogleMobileAds `13.0.0` 대응
 어댑터 버전 `13.0.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -178,6 +199,7 @@ GoogleMobileAds `13.0.0` 대응
 
 GoogleMobileAds `13.0.0` 대응
 어댑터 버전 `13.0.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-08-31
 
@@ -185,6 +207,7 @@ GoogleMobileAds `13.0.0` 대응
 
 GoogleMobileAds `12.14.0` 대응
 어댑터 버전 `12.14.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -192,6 +215,7 @@ GoogleMobileAds `12.14.0` 대응
 
 GoogleMobileAds `12.14.0` 대응
 어댑터 버전 `12.14.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-08-31
 
@@ -199,6 +223,7 @@ GoogleMobileAds `12.14.0` 대응
 
 GoogleMobileAds `12.13.0` 대응
 어댑터 버전 `12.13.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -206,6 +231,7 @@ GoogleMobileAds `12.13.0` 대응
 
 GoogleMobileAds `12.13.0` 대응
 어댑터 버전 `12.13.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-08-31
 
@@ -213,6 +239,7 @@ GoogleMobileAds `12.13.0` 대응
 
 GoogleMobileAds `12.12.0` 대응
 어댑터 버전 `12.12.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -220,6 +247,7 @@ GoogleMobileAds `12.12.0` 대응
 
 GoogleMobileAds `12.12.0` 대응
 어댑터 버전 `12.12.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-08-31
 
@@ -227,6 +255,7 @@ GoogleMobileAds `12.12.0` 대응
 
 GoogleMobileAds `12.11.0` 대응
 어댑터 버전 `12.11.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -234,6 +263,7 @@ GoogleMobileAds `12.11.0` 대응
 
 GoogleMobileAds `12.11.0` 대응
 어댑터 버전 `12.11.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-08-31
 
@@ -241,6 +271,7 @@ GoogleMobileAds `12.11.0` 대응
 
 GoogleMobileAds `12.10.0` 대응
 어댑터 버전 `12.10.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -248,6 +279,7 @@ GoogleMobileAds `12.10.0` 대응
 
 GoogleMobileAds `12.10.0` 대응
 어댑터 버전 `12.10.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-08-31
 
