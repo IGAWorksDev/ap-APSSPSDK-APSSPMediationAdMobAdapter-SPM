@@ -20,12 +20,28 @@
 
 ```swift
 .package(url: "https://github.com/IGAWorksDev/ap-APSSPSDK-APSSPMediationAdMobAdapter-SPM.git",
-         exact: "13110000.0.0")
+         exact: "13130000.0.0")
 ```
 
 > `Other Linker Flags` 에 **`-ObjC`** 추가 필수. 미설정 시 어댑터가 런타임에 인식되지 않습니다.
 
 ---
+
+## 13130000.0.0
+
+GoogleMobileAds `13.13.0` 대응
+어댑터 버전 `13.13.0.0`
+APSSPSDK `3.4.0` 이상
+
+2026-11-24
+
+## 13120000.0.0
+
+GoogleMobileAds `13.12.0` 대응
+어댑터 버전 `13.12.0.0`
+APSSPSDK `3.4.0` 이상
+
+2026-11-24
 
 ## 13110000.0.0
 
